@@ -13,3 +13,7 @@ console.log(os.freemem())
 
 //totla memory
 console.log(os.totalmem())
+
+console.log(os.homedir())
+
+console.log(os.uptime())
